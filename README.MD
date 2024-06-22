@@ -60,37 +60,28 @@ Feel free to reach out if you'd like to collaborate or just chat about tech and 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leela-ramakrishna/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/leela_ramakrish"><img src="https://img.shields.io/twitter/follow/leela_ramakrish?style=social" alt="Twitter Follow" /></a>
-</div>
-
-## Recent Blog Posts 📝
-
-- [How AI is Transforming Healthcare](https://medium.com/@leelaramakrishna/how-ai-is-transforming-healthcare-123456) - Exploring the impact of AI in the medical field.
-- [NLP Techniques for Text Generation](https://medium.com/@leelaramakrishna/nlp-techniques-for-text-generation-7890123) - A deep dive into NLP and text generation methods.
-
-## Projects Showcase 🛠️
-
-Here are some of my recent projects:
-
-- [SentimentAnalyzer](https://github.com/leelaramakrishna/SentimentAnalyzer) - A sentiment analysis tool using machine learning.
-- [HealthCareAI](https://github.com/leelaramakrishna/HealthCareAI) - Applying AI techniques to improve healthcare services.
-
-## Skills and Expertise 🔥
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-
-
----
-
-<div align="center">
   <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" alt="Excited GIF" width="300"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/12BWI7hsY1zn3C/giphy.gif" alt="Hello GIF" width="300"/>
-</div>
+## GitHub Stats 📊
+
+[![Leela's GitHub stats](https://github-readme-stats.vercel.app/api?username=leelaramakrishna&show_icons=true&theme=dark)](https://github.com/leelaramakrishna)
+
+## Top Languages 🔝
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelaramakrishna&layout=compact&theme=dark)](https://github.com/leelaramakrishna)
+
+## Recent Activity 📅
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/leelaramakrishna/project/pull/123) in [leelaramakrishna/project](https://github.com/leelaramakrishna/project)
+2. 🚀 Released version 1.0.0 of [my_library](https://github.com/leelaramakrishna/my_library)
+<!--END_SECTION:activity-->
+
+## Repositories 📦
+
+Here are some of my notable repositories:
+
+- [project1](https://github.com/leelaramakrishna/project1): A cool project that does something amazing
