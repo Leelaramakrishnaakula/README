@@ -81,3 +81,16 @@ Here are some of my recent projects:
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
+
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" alt="Excited GIF" width="300"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/12BWI7hsY1zn3C/giphy.gif" alt="Hello GIF" width="300"/>
+</div>
